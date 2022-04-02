@@ -133,12 +133,4 @@ void hill(){
 
 
 
-int main(int argc, char** argv){
-    glutInit(&argc, argv);
-    glutInitWindowSize(1100,850);
-    glutInitWindowPosition(50,50);
-    glutCreateWindow("Mordern City ");
 
-    glutMainLoop();
-    return 0;
-}
